@@ -7,7 +7,7 @@
 
 ## Najbliższa niedziela handlowa
 
-**Data**: `30 Czerwca`
+**Data**: `Dzisiaj`
 
 ## Lista niedziel handlowych w roku `2024`
 
