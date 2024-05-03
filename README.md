@@ -2,8 +2,8 @@
 
 **Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2024-05-02`
-`Czwartek`
+**Dzisiaj**: `2024-05-03`
+`Piątek`
 
 ## Najbliższa niedziela handlowa
 
