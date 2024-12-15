@@ -1,13 +1,13 @@
 # Czy dzisiaj jest niedziela handlowa? 🛍️
 
-**Niedziela handlowa**: `Nie`
+**Niedziela handlowa**: `Tak`
 
-**Dzisiaj**: `2024-12-14`
-`Sobota`
+**Dzisiaj**: `2024-12-15`
+`Niedziela`
 
 ## Najbliższa niedziela handlowa
 
-**Data**: `15 Grudnia`
+**Data**: `Dzisiaj`
 
 ## Lista niedziel handlowych w roku `2024`
 
