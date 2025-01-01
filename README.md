@@ -2,22 +2,22 @@
 
 **Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2024-12-31`
-`Wtorek`
+**Dzisiaj**: `2025-01-01`
+`Środa`
 
 ## Najbliższa niedziela handlowa
 
-**Data**: `Brak nadchodzących niedziel handlowych w tym roku`
+**Data**: `26 Stycznia`
 
-## Lista niedziel handlowych w roku `2024`
+## Lista niedziel handlowych w roku `2025`
 
-- 28 Stycznia
-- 24 Marca
-- 28 Kwietnia
-- 30 Czerwca
-- 25 Sierpnia
-- 15 Grudnia
-- 22 Grudnia
+- 26 Stycznia
+- 13 Kwietnia
+- 27 Kwietnia
+- 29 Czerwca
+- 31 Sierpnia
+- 14 Grudnia
+- 21 Grudnia
 
 ## Powyższa odpowiedź zakłada, że wciąż obowiązuje ustawa
 
