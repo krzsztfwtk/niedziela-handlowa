@@ -2,8 +2,8 @@
 
 **Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2025-06-13`
-`Piątek`
+**Dzisiaj**: `2025-06-14`
+`Sobota`
 
 ## Najbliższa niedziela handlowa
 
