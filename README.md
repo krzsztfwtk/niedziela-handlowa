@@ -1,13 +1,13 @@
 # Czy dzisiaj jest niedziela handlowa? 🛍️
 
-**Niedziela handlowa**: `Tak`
+**Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2025-06-29`
-`Niedziela`
+**Dzisiaj**: `2025-06-30`
+`Poniedziałek`
 
 ## Najbliższa niedziela handlowa
 
-**Data**: `Dzisiaj`
+**Data**: `31 Sierpnia`
 
 ## Lista niedziel handlowych w roku `2025`
 
