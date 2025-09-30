@@ -2,8 +2,8 @@
 
 **Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2025-09-29`
-`Poniedziałek`
+**Dzisiaj**: `2025-09-30`
+`Wtorek`
 
 ## Najbliższa niedziela handlowa
 
