@@ -1,13 +1,13 @@
 # Czy dzisiaj jest niedziela handlowa? 🛍️
 
-**Niedziela handlowa**: `Nie`
+**Niedziela handlowa**: `Tak`
 
-**Dzisiaj**: `2026-01-24`
-`Sobota`
+**Dzisiaj**: `2026-01-25`
+`Niedziela`
 
 ## Najbliższa niedziela handlowa
 
-**Data**: `25 Stycznia`
+**Data**: `Dzisiaj`
 
 ## Lista niedziel handlowych w roku `2026`
 
