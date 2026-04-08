@@ -2,8 +2,8 @@
 
 **Niedziela handlowa**: `Nie`
 
-**Dzisiaj**: `2026-04-07`
-`Wtorek`
+**Dzisiaj**: `2026-04-08`
+`Środa`
 
 ## Najbliższa niedziela handlowa
 
