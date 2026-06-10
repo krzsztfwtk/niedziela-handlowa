@@ -11,7 +11,7 @@
 
 ## Lista niedziel handlowych w roku `2026`
 
-- 25 Stycznia
+- - 25 Stycznia
 - 29 Marca
 - 26 Kwietnia
 - 28 Czerwca
@@ -42,3 +42,4 @@ Art. 7. 1. Zakaz, o którym mowa w art. 5, nie obowiązuje w:
 3) ostatnią niedzielę przypadającą w styczniu, kwietniu, czerwcu i sierpniu.
 
 (...)
+
