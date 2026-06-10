@@ -12,13 +12,13 @@
 ## Lista niedziel handlowych w roku `2026`
 
 - - 25 Stycznia
-- 29 Marca
-- 26 Kwietnia
-- 28 Czerwca
-- 30 Sierpnia
-- 6 Grudnia
-- 13 Grudnia
-- 20 Grudnia
+29 Marca
+26 Kwietnia
+28 Czerwca
+30 Sierpnia
+6 Grudnia
+13 Grudnia
+20 Grudnia
 
 ## Powyższa odpowiedź zakłada, że wciąż obowiązuje ustawa
 
